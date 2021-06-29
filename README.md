@@ -4,9 +4,6 @@
 
 # Spring Boot MongoDB React App 
 # Cadastro de Usuários
-## Download
-```git clone https://github.com/maheshkareeya/spring-boot-react-mongodb-crud.git```
-```cd spring-boot-mongodb-react-crud```
 ## Abrir Terminal
 ```cd app```
 ## Instalar Dependencias
